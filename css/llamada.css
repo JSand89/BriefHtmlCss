@@ -5,11 +5,12 @@
 
     color: var(--background-blanco);
     text-align: center;
-    
+    background-image: url(../img/bg-intro.jpg);
     background-color: var(--background-llamada-mobile);
-
+    background-position: center;
     padding-top: 12.25rem;
     padding-bottom: 2.5rem;
+    width: 1127px;
 }
 
 .llamada__titulo {
